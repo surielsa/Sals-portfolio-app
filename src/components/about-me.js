@@ -1,4 +1,7 @@
-function App() {
+import React, { Component } from 'react'
+
+export default class About extends Component {
+  render() {
 
     return (
       <div>
@@ -15,6 +18,7 @@ function App() {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
               <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                 <li className="nav-item">
+                  {/* need to change the HTML links below */}
                   <a className="nav-link" href="index.html">Home</a>
                 </li>
                 <li className="nav-item">
@@ -64,3 +68,4 @@ function App() {
       </div>
     );
   }
+}
