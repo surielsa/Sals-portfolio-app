@@ -18,7 +18,7 @@ export default class About extends Component {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
               <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                 <li className="nav-item">
-                  {/* need to change the HTML links below to JS links */}
+                  {/* TODO need to change the HTML links below to JS links */}
                   <a className="nav-link" href="index.js">Home</a>
                 </li>
                 <li className="nav-item">
