@@ -18,8 +18,8 @@ export default class About extends Component {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
               <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                 <li className="nav-item">
-                  {/* need to change the HTML links below */}
-                  <a className="nav-link" href="index.html">Home</a>
+                  {/* need to change the HTML links below to JS links */}
+                  <a className="nav-link" href="index.js">Home</a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="portfolio.html">Projects</a>
@@ -40,14 +40,14 @@ export default class About extends Component {
               <article className="ab-block">
                 <h1 className="block-header">About Me</h1>
                 <hr />
-                {/* change the img src */}
+                {/* change the img src/size */}
                 <img src="assets/images/Profile-Pic.jpg" alt="" id="about-image" />
                 {/* NEED TO WRITE NEW PARAGRAPH HERE! */}
                 <p>I am a new coder with a lot of eagerness. I love to code and I spend as much time coding. I also love
                   comedy, fashion, and pop culture. My biggest dream is to blend both worlds. Being able to appeal to the
                   fashion and pop culture via a technological influence beyond just being a social media influencer, but a
                 creator in many fields especially front-end development. </p>
-  
+
                 <p>The more I learn about coding the more excited I am about the things I can create and the ways I can help
                 people have an easier life or enjoy their lives more.</p>
               </article>
