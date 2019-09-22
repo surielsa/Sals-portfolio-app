@@ -3,7 +3,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import About from './components/about-me';
-import Index from './components/index';
+
 
 
 
@@ -13,7 +13,6 @@ class App extends Component {
         return (
             <div id="colorlib-page">
                 <div id="container-wrap">
-                    <Index></Index>
                     <div id="colorlib-main">
                         <About></About>
                     </div>

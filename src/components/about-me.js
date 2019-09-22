@@ -24,12 +24,6 @@ export default class About extends Component {
                 <li className="nav-item">
                   <a className="nav-link" href="portfolio.html">Projects</a>
                 </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="about-me.html">About Me</a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="contact.html">Contact</a>
-                </li>
               </ul>
             </div>
           </div>
@@ -40,15 +34,14 @@ export default class About extends Component {
               <article className="ab-block">
                 <h1 className="block-header">About Me</h1>
                 <hr />
-                {/* change the img src/size */}
-                <img src="assets/images/Profile-Pic.jpg" alt="" id="about-image" />
+                {/* edit image possibly change it */}
+                <img src="assets/images/Profile-Pic.jpg" width={200} height={200} alt="" id="about-image" />
+
                 {/* NEED TO WRITE NEW PARAGRAPH HERE! */}
                 <p>I am a new coder with a lot of eagerness. I love to code and I spend as much time coding. I also love
                   comedy, fashion, and pop culture. My biggest dream is to blend both worlds. Being able to appeal to the
                   fashion and pop culture via a technological influence beyond just being a social media influencer, but a
-                creator in many fields especially front-end development. </p>
-
-                <p>The more I learn about coding the more excited I am about the things I can create and the ways I can help
+                creator in many fields especially front-end development. The more I learn about coding the more excited I am about the things I can create and the ways I can help
                 people have an easier life or enjoy their lives more.</p>
               </article>
             </div>
