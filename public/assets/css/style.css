@@ -1,4 +1,5 @@
 /* --- STYLES FOR ALL PAGES --- */
+
 body {
   /* Typography */
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -137,7 +138,7 @@ main {
 
 #about-image {
   /* Positioning */
-  float: left;
+  float: center;
 
   /* Box-model */
   width: 200px;

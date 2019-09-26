@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sals-portfolio-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sals-portfolio-app/static/js/main.c1f3cff8.chunk.js",
+    "main.js.map": "/sals-portfolio-app/static/js/main.c1f3cff8.chunk.js.map",
+    "runtime~main.js": "/sals-portfolio-app/static/js/runtime~main.110e6248.js",
+    "runtime~main.js.map": "/sals-portfolio-app/static/js/runtime~main.110e6248.js.map",
+    "static/js/2.01e6883c.chunk.js": "/sals-portfolio-app/static/js/2.01e6883c.chunk.js",
+    "static/js/2.01e6883c.chunk.js.map": "/sals-portfolio-app/static/js/2.01e6883c.chunk.js.map",
+    "index.html": "/sals-portfolio-app/index.html",
+    "precache-manifest.3e1c5ec085e2b645658916be143542f4.js": "/sals-portfolio-app/precache-manifest.3e1c5ec085e2b645658916be143542f4.js",
+    "service-worker.js": "/sals-portfolio-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sals-portfolio-app/static/css/main.2cce8147.chunk.css.map"
+  }
+}
