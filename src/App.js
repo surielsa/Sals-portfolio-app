@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Sidebar from './components/sidebar';
 import About from './components/about-me';
-
+import Project from './components/projects';
 
 
 
@@ -14,9 +14,11 @@ class App extends Component {
         return (
             <div id="colorlib-page">
                 <div id="container-wrap">
-                    <Sidebar></Sidebar>
+                    <Sidebar />
+                    <Project />
                     <div id="colorlib-main">
-                        <About></About>
+                        <About />
+                        
                     </div>
                 </div>
             </div>
