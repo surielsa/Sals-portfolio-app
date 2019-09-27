@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Sals-portfolio-app/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Sals-portfolio-app/static/js/main.09b79d44.chunk.js",
-    "main.js.map": "/Sals-portfolio-app/static/js/main.09b79d44.chunk.js.map",
-    "runtime~main.js": "/Sals-portfolio-app/static/js/runtime~main.52dffe26.js",
-    "runtime~main.js.map": "/Sals-portfolio-app/static/js/runtime~main.52dffe26.js.map",
-    "static/js/2.7cf8267a.chunk.js": "/Sals-portfolio-app/static/js/2.7cf8267a.chunk.js",
-    "static/js/2.7cf8267a.chunk.js.map": "/Sals-portfolio-app/static/js/2.7cf8267a.chunk.js.map",
+    "main.js": "/Sals-portfolio-app/static/js/main.52ffb1e3.chunk.js",
+    "main.js.map": "/Sals-portfolio-app/static/js/main.52ffb1e3.chunk.js.map",
+    "runtime~main.js": "/Sals-portfolio-app/static/js/runtime~main.515ee53a.js",
+    "runtime~main.js.map": "/Sals-portfolio-app/static/js/runtime~main.515ee53a.js.map",
+    "static/js/2.c9224dd4.chunk.js": "/Sals-portfolio-app/static/js/2.c9224dd4.chunk.js",
+    "static/js/2.c9224dd4.chunk.js.map": "/Sals-portfolio-app/static/js/2.c9224dd4.chunk.js.map",
     "index.html": "/Sals-portfolio-app/index.html",
-    "precache-manifest.4ec3eb51e08222ce51372e2ce6b1974e.js": "/Sals-portfolio-app/precache-manifest.4ec3eb51e08222ce51372e2ce6b1974e.js",
+    "precache-manifest.1c74ba8d65ec241b08cd82c1291e3a26.js": "/Sals-portfolio-app/precache-manifest.1c74ba8d65ec241b08cd82c1291e3a26.js",
     "service-worker.js": "/Sals-portfolio-app/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/Sals-portfolio-app/static/css/main.2cce8147.chunk.css.map"
   }
