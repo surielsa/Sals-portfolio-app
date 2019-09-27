@@ -120,9 +120,12 @@ main {
 }
 
 /* END FOOTER */
+
 /* --- END STYLES FOR ALL PAGES --- */
 
 /* --- PAGE-SPECIFIC STYLES --- */
+
+
 /* ABOUT-ME PAGE */
 .about-me-header {
   /* Positioning */
@@ -145,7 +148,10 @@ main {
   margin: 0 20px 10px 0;
 }
 
-/* About Me Text */
+/* About Me Text  */
+
+/* More EDITING NEEDED HERE */
+
 .ab-block {
   border: .6px solid;
   padding: 7px;
@@ -160,120 +166,4 @@ main {
 /* END ABOUT-ME PAGE */
 
 
-/* PORTFOLIO PAGE */
-.port-image {
-  margin: 20px auto;
-}
-
-/* END PORTFOLIO PAGE */
-
-
-/* CONTACT FORM PAGE  */
-.form-control {
-  /* give input boxes right angles */
-  border-radius: 0;
-
-  /* keep from horizontally resizing text area */
-  min-width: 100%;
-  max-width: 100%;
-}
-
-.submit-btn {
-  /* Box-model */
-  padding: 15px 30px;
-  font-size: 16px;
-  font-weight: lighter;
-
-  /* Typography */
-  color: #fff;
-
-  /* Visual */
-  background-color: #0a090a;
-  border: 0;
-}
-
-.submit-btn:hover {
-  opacity: .7;
-}
-
-#panel-body {
-  float: right;
-}
-
-#icon {
-  width: 20px;
-  height: 20px;
-}
-
-.homepage-container {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
-}
-
-.homepage-container span {
-
-  text-transform: uppercase;
-  display: block;
-}
-
-.text1 {
-  font-size: 65px;
-  color: black;
-  font-weight: 700;
-  letter-spacing: 8px;
-  margin-bottom: 20px;
-  position: relative;
-  animation: text 3s 1;
-}
-
-.text2 {
-  font-size: 65px;
-  color: black;
-  font-weight: 700;
-  letter-spacing: 8px;
-  margin-bottom: 20px;
-  animation: text 3s 1;
-}
-
-@keyframes text {
-  0% {
-    color: white;
-    margin-bottom: -40px;
-  }
-
-  30% {
-    letter-spacing: 25px;
-    margin-bottom: -40px;
-  }
-
-  85% {
-    letter-spacing: -8px;
-    margin-bottom: -40px;
-  }
-
-}
-
-.homepage-buttons {
-  top: 70%;
-  left: 38.5%;
-  text-align: center;
-  position: absolute;
-  margin-bottom: -70px;
-}
-
-.p {
-  color: black;
-}
-
-.contact {
-  font-size: 35px;
-  text-align: center;
-  position: absolute;
-  width: 100%;
-}
-/* END CONTACT FORM PAGE */
 
