@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 export default class Project extends Component {
     render() {
         return (
+            <nav id="colorlib-main-menu">
             <div class="icons">
                 <h1>Projects</h1>
                 <p> These are complete projects I am proud to have worked on. I also have more in progress in my <span><a href="https://github.com/surielsa"> </a></span>GitHub Page.</p> 
@@ -33,7 +34,7 @@ export default class Project extends Component {
                     </a>
                 </a>
             </div>
-
+            </nav>
         )
     }
 }

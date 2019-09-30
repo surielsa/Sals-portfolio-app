@@ -11,9 +11,8 @@ export default class Sidebar extends Component {
                         <div className="text-center">
                             <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }} />
                             <h1 id="colorlib-logo"><a href="index.html">Sal Suriel</a></h1>
-                            <span className="email"><i className="icon-mail"></i> <a href = "mailto: surielsa@gmail.com">Contact Me</a></span>
+                            <span className="email"><i className="icon-mail"></i> <a href = "mailto: surielsa@gmail.com">Contact Me</a></span>&nbsp;&nbsp;
 
-<br></br>
                             <span className="resume"><a href = "assets/Sal-Suriel-Resume.pdf">Resume</a></span>
     
                             
