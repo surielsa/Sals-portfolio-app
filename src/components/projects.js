@@ -33,7 +33,7 @@ export default class Project extends Component {
                         <a href="https://surielsa.github.io/NYC-Transit-Trivia-Game/">
                         </a>
                     </a>
-                    <a href="https://surielsa.github.io/Sals-eShop/"><img className="icon" src="assets/images/NYCtransit.jpg" width={50} height={50} alt="NYCtransit-app" />
+                    <a href="https://surielsa.github.io/Sals-eShop/"><img className="icon" src="assets/images/cart-bamazon.png" width={50} height={50} alt="NYCtransit-app" />
                         <p>Sal's E-Shop (Backend Project)</p>
                         <a href="https://surielsa.github.io/Sals-eShop/">
                         </a>
